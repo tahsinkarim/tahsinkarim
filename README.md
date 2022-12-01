@@ -1,6 +1,6 @@
 <h1>Hey there 👋 , I'm Tahsin Karim</h1>
 
-<img src="https://i.ibb.co/48d7zgW/github-cover.png<username>/<repository>/<branch>/<file_path>"/>
+<img src="https://i.ibb.co/QXqv48k/github-cover2.png<username>/<repository>/<branch>/<file_path>"/>
 
 <h2>MERN Stack Developer</h2>
 I'm a MERN Stack developer with a passion for building progressive web applications. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Eager to obtain a challenging position at a prestigious company that will expand my learning and help me use my skills to create solutions to real world problems.
