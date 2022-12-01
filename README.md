@@ -15,7 +15,7 @@ I'm a MERN Stack developer with a passion for building progressive web applicati
 
 📫 How to reach me **tahsinkarim314@gmail.com**
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Technologies & Tools</h2>
 <p>
 <a>
   <img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
