@@ -60,6 +60,7 @@ I'm a MERN Stack developer with a passion for building progressive web applicati
 
 <h2 align="left">My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinkarim&show_icons=true&locale=en&layout=compact" alt="tahsinkarim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tahsinkarim&show_icons=true&theme=transparent" alt="tahsinkarim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinkarim&" alt="tahsinkarim" /></p>
 
 <h2 align="left">Connect With Me</h2>
